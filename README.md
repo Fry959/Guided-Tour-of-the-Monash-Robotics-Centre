@@ -3,8 +3,11 @@ This repository contains code for a robot guided tour using Pepper robot
 
 System Requirements:
 Python 2.7
+
 Naoqi 2.5 Python SDK
+
 Choreographe 2.5 VER
+
 PILLOW 6.0 package 
 
 Installation:
